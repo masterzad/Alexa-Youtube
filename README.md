@@ -18,8 +18,8 @@ Based of code from ndg63276
 
 1. Play a video, eg "Alexa, ask Test Player to play Strawberry Gashes"
 2. Play a playlist, eg "Alexa, ask Test Player to play playlist Ultimate Creed"
-3. Play a channel, eg "Alexa, ask Test Player to play channel Fall Out Boy Vevo"
-4. You can replace "play" with "shuffle" to get a randomized version of the search results/channel/playlist, eg "Alexa, ask Test Player to shuffle channel Nicki Minaj"
+3. Play a channel, eg "Alexa, ask Test Player to play channel Kansas Vevo"
+4. You can replace "play" with "shuffle" to get a randomized version of the search results/channel/playlist, eg "Alexa, ask Test Player to shuffle channel Creed"
 5. Next / Previous / Start Over / Pause / Resume should all work
 6. Ask what is playing by "Alexa, ask Test Player what song is playing" (or just "Alexa, can you repeat that?" should tell you)
 7. Skip forward or back in the video by "Alexa, ask Test Player to skip forward/backward to/by one minute and one second"
